@@ -1,0 +1,10 @@
+Job Title: Machine Learning Engineer  
+Company: FutureTech AI  
+
+We are seeking a highly skilled ML Engineer to join our AI Research Team.  
+Responsibilities include developing production-ready ML models, improving existing pipelines, and working with cross-functional teams.  
+
+Requirements:
+- Proficiency in Python, PyTorch, or TensorFlow
+- Experience with LLMs or GPT-based tools
+- Strong understanding of data privacy and consent-driven design

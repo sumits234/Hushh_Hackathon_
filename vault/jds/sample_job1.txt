@@ -1,0 +1,27 @@
+Job Title: Software Engineer – Backend
+Company: Google
+Location: Bangalore, India
+
+Job Description:
+We are looking for a skilled backend engineer with experience in Python, cloud computing (GCP or AWS), and RESTful API development. You will work on high-scale distributed systems, microservices, and data engineering pipelines.
+
+Responsibilities:
+
+Build scalable backend services in Python or Go
+
+Integrate REST APIs with frontend teams
+
+Collaborate with ML engineers for deploying models
+
+Write unit and integration tests
+
+Qualifications:
+
+Bachelor's in Computer Science or related field
+
+1–3 years of experience in backend development
+
+Proficiency in Python, SQL, and Docker
+
+Knowledge of Kubernetes is a plus
+

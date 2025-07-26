@@ -1,0 +1,39 @@
+Sumit Adikari  
+Email: sumitadikari2@gmail.com  
+LinkedIn: https://linkedin.com/in/sumitadikari  
+GitHub: https://github.com/sumits234  
+Phone: +91-XXXXXXXXXX  
+
+🎓 Education  
+B.Tech in Civil Engineering  
+Indian Institute of Technology (IIT) Bombay  
+Expected Graduation: 2026  
+CGPA: 5.8 (Working to improve)  
+
+💻 Technical Skills  
+- Languages: Python, C++, HTML/CSS, JavaScript  
+- Tools & Frameworks: OpenCV, Flask, FastAPI, LangChain, FAISS  
+- AI/ML: Scikit-learn, TensorFlow, GPT (OpenAI), Hugging Face  
+- Other: Git, Google Colab, VS Code, Canva  
+
+📁 Projects  
+🔹 Job Application Copilot AI (Ongoing)  
+Building a privacy-safe agent that automates job search, applies, tracks, and follows up on opportunities using GPT and consent protocols.  
+
+🔹 Credit Card Fraud Detection  
+Implemented multiple ML algorithms on Kaggle dataset to detect fraud with 98% accuracy.  
+
+🔹 Facial Recognition using Siamese Network  
+Built a deep learning model for identity verification with OpenCV and PyTorch.  
+
+🔹 Emotion Recognition with CNN-RNN  
+Replicated research model to classify emotional states from video input using LSTM and CNN.  
+
+🏆 Activities  
+- Hackathon Participant: Hushh PDA Hackathon  
+- Volunteer: Eklavya Society  
+- Athletics: District level (Higher Secondary)  
+
+🧠 Interests  
+Startups, Web Development, Data Science, Robotics, Tech  
+
